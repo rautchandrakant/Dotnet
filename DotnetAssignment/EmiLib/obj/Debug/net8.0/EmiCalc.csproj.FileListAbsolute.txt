@@ -1,0 +1,11 @@
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/EmiCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/EmiCalc.AssemblyInfoInputs.cache
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/EmiCalc.AssemblyInfo.cs
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/EmiCalc.csproj.CoreCompileInputs.cache
+/home/chandrakant/DotnetAssignment/EmiLib/bin/Debug/net8.0/EmiCalc.deps.json
+/home/chandrakant/DotnetAssignment/EmiLib/bin/Debug/net8.0/EmiCalc.dll
+/home/chandrakant/DotnetAssignment/EmiLib/bin/Debug/net8.0/EmiCalc.pdb
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/EmiCalc.dll
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/refint/EmiCalc.dll
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/EmiCalc.pdb
+/home/chandrakant/DotnetAssignment/EmiLib/obj/Debug/net8.0/ref/EmiCalc.dll
